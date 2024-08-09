@@ -1,1 +1,1 @@
-random projects here
+# Random projects here from my early stages of learning
